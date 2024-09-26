@@ -1,4 +1,3 @@
-Here’s a concise description for your GitHub repository README that captures the essence of your demo:
 
 ---
 
@@ -16,4 +15,4 @@ This demo illustrates the power and ease of using Aiven's managed services to bu
 
 ---
 
-Feel free to adjust any part of this description as needed!
+
